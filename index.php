@@ -1,3 +1,3 @@
 <?php
-echo "Hello World ! This is my first file after ssh check newwwwww  check...";
+echo "Hello World ! from the scratch";
 ?>
