@@ -1,3 +1,3 @@
 <?php
-echo "Hello World ! from the scratch test fgfgf";
+echo "Hello World ! from the scratch test fggggggfgf";
 ?>
